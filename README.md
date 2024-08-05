@@ -26,4 +26,4 @@
 
 ## Ссылка на сайт
 
-https://margo-madeira.github.io/shfe-diplom/
+https://alex111358.github.io/my-diplom/
